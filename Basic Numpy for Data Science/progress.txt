@@ -1,0 +1,4 @@
+1) creating multidaimentional arrays
+2) accessing them
+3) chain indexing array[.., .., ..] or array[..][..][..]
+4) slicing basics [start:end:step]
