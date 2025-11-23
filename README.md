@@ -7,4 +7,5 @@ Complete Data Science Code and Tutorial Link for 100% Free with Notes and no flu
 <br>
 **Complete Data Science Course <a href="https://youtu.be/CMEWVn1uZpQ?si=MXcQHEktRtFnMdK4">Data Science Course By FreeCodeChamp</a>**
 
-## Notes are given of two great books one of data science and one for machine learning 
+## Download Notes and extract with Winrar!
+**Notes -> <a href = "https://drive.google.com/file/d/1WKnmH4-vXITojN0ausVIEIcY2J6tP5K4/view?usp=sharing">Click For Notes</a>**
